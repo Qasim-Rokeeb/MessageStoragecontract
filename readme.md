@@ -11,11 +11,12 @@ It allows anyone to store a short message (up to 280 characters) on-chain with t
 - **Address:** [`0x7738cEEd3340DEe3BFc76E15A40D1f6c2419fC3f`](https://sepolia.basescan.org/address/0x7738cEEd3340DEe3BFc76E15A40D1f6c2419fC3f)
 - **Network:** Base Sepolia Testnet
 - **Status:** ✅ Verified on BaseScan
-- **License:** MIT
+
 
 ---
 
 ## 📜 Features
+
 
 - Store a new message with sender and timestamp
 - Retrieve the latest stored message
