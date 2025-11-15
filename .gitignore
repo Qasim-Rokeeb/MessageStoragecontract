@@ -1,0 +1,53 @@
+# Node / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Build outputs
+/dist
+/build
+/out
+/.next
+/.nuxt
+/.parcel-cache
+/.cache
+
+# Env files (local secrets)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Test coverage
+/coverage
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sublime-project
+*.sublime-workspace
+
+# Certificates and keys
+*.pem
+*.key
+*.p12
+*.crt
+
+# Misc
+/dist-*
+/tmp
