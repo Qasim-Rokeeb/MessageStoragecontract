@@ -6,6 +6,7 @@ contract MessageStorage {
     string private storedMessage;
     
     // Address of the person who set the message
+    // Tracks who last updated the stored message
     address public messageSetter;
     
     // Timestamp when message was set
